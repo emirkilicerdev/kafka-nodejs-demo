@@ -86,5 +86,3 @@ Notlar / İpuçları
 Sorun giderme
 - Redis bağlantı hatası: Redis'in çalıştığından ve `6379` portunun dinlendiğinden emin olun.
 - Kafka bağlantı hatası: Broker adresini ve Docker ağ ayarlarını kontrol edin.
-
-Değiştirmek istediğiniz bir şey olursa söyleyin, README'yi istediğiniz gibi özelleştiririm.
